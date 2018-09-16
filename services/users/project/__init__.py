@@ -30,8 +30,4 @@ def create_app(script_info=None):
 
     return app
 
-
-
-
-
 # print(app.config, file=sys.stderr)
